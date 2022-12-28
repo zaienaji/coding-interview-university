@@ -1022,8 +1022,8 @@ Graphs can be used to represent many problems in computer science, so this secti
         - [ ] [Simonson: Dynamic programming II - Lecture 12 (video)](https://www.youtube.com/watch?v=v1qiRwuJU7g&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=12)
         - [ ] List of individual DP problems (each is short):
             [Dynamic Programming (video)](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
-    - [ ] Yale Lecture notes:
-        - [ ] [Dynamic Programming](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming)
+    - [X] Yale Lecture notes:
+        - [X] [Dynamic Programming](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming)
     - [ ] Coursera:
         - [ ] [The RNA secondary structure problem (video)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/80RrW/the-rna-secondary-structure-problem)
         - [ ] [A dynamic programming algorithm (video)](https://www.coursera.org/lecture/algorithmic-thinking-2/a-dynamic-programming-algorithm-PSonq)
@@ -1099,10 +1099,10 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [X] [Instructions and Programs (video)](https://youtu.be/zltgXvg6r3k)
 
 - ### Caches
-    - [ ] LRU cache:
+    - [X] LRU cache:
         - [X] [The Magic of LRU Cache (100 Days of Google Dev) (video)](https://www.youtube.com/watch?v=R5ON3iwx78M)
         - [X] [Implementing LRU (video)](https://www.youtube.com/watch?v=bq6N7Ym81iI)
-        - [ ] 🏃[LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
+        - [X] [LeetCode - 146 LRU Cache (C++) (video)](https://www.youtube.com/watch?v=8-FZRAjR7qU)
     - [X] CPU cache:
         - [X] [MIT 6.004 L15: The Memory Hierarchy (video)](https://www.youtube.com/watch?v=vjYF_fAZI5E&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-&index=24)
         - [X] [MIT 6.004 L16: Cache Issues (video)](https://www.youtube.com/watch?v=ajgC3-pyGlk&index=25&list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
@@ -1110,7 +1110,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ### Processes and Threads
     - [ ] Computer Science 162 - Operating Systems (25 videos):
         - for processes and threads see videos 1-11
-        - 🏃[Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
+        - 🏃 {1 of 11} [Operating Systems and System Programming (video)](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c)
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
